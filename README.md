@@ -53,5 +53,3 @@ ejercicio-escuelita-somos-pnt/
 - **src/Entidades/:** Contiene las clases Java del modelo organizadas en diferentes archivos según la categoría de los productos.
 - **Main/MainSupermercado.java:** Punto de entrada del programa.
 - **README.md:** Este archivo.
-
-Para más detalles sobre la implementación del proyecto, consulta el código fuente y los comentarios en cada clase.
